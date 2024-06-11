@@ -8,35 +8,31 @@ Cervical spine fractures can have serious implications if not diagnosed correctl
 
 # Features
 
-# User Authentication: 
-Secure login and sign-up pages for user management.
+User Authentication: Secure login and sign-up pages for user management.
 
-# Image Upload: 
-Users can upload cervical spine images through the dashboard.
+Image Upload: Users can upload cervical spine images through the dashboard.
 
-# Fracture Detection: 
-The app uses a pre-trained deep learning model to detect fractures.
+Fracture Detection: The app uses a pre-trained deep learning model to detect fractures.
 
-# Results Display: 
-Detection results are displayed directly on the dashboard.
+Results Display: Detection results are displayed directly on the dashboard.
 
 # Usage
 
-# Start the application:
+Start the application:
 python app.py
 This will start a local web server.
 
-# Open the dashboard:
+Open the dashboard:
 Open your web browser and navigate to http://127.0.0.1:5000.
 
-# Sign Up / Login:
+Sign Up / Login:
 
 Sign up for a new account or login if you already have an account.
 
-# Upload an Image:
+Upload an Image:
 Use the upload feature to select and upload an image of a cervical spine.
 
-# View Results:
+View Results:
 The app will process the image and display the detection results on the dashboard.
 
 
